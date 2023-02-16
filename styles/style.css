@@ -1,0 +1,86 @@
+h1 {
+    font-size: 50px;
+    color: rebeccapurple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .image {
+    width: 60px;
+    height: 60px;
+    
+  }
+  .dolor-image{
+      width: 700px;
+      margin-left: 50px;
+      height: 500px;
+  }
+  .money-Income {
+    text-align: center;
+    background-color: #f8f8f8;
+    width: 500px;
+    margin-left: 100px;
+    
+  }
+  #main{
+      display: flex;
+      justify-content: space-between;
+      margin-right: 20px;
+    
+  }
+  
+  .Income {
+    margin-left: 5px;
+    height: 30px;
+    background: #dcdcdc;
+    border: none;
+    padding: 5px;
+  }
+  .food {
+    margin-left: 30px;
+    height: 30px;
+    background: #dcdcdc;
+    border: none;
+    padding: 5px;
+  }
+  .rent {
+    margin-left: 30px;
+    height: 30px;
+    background: #dcdcdc;
+    border: none;
+    padding: 5px;
+  }
+  .cloth {
+    margin-left: 22px;
+    height: 30px;
+    background: #dcdcdc;
+    border: none;
+    padding: 5px;
+  }
+  .calculate {
+    background-color:#59A5FF;
+    color: whitesmoke;
+    font-weight: 700;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+  }
+  .calculate:hover {
+    background-color: rgb(117, 68, 232);
+  }
+  .Save-field {
+    width: 50px;
+    text-align: center;
+    background: #dcdcdc;
+    border: none;
+    padding: 5px;
+    border-radius: 2px;
+  }
+  .btn-save{
+      background: #59A5FF;
+      border: none;
+      padding: 10px 40px;
+      color: whitesmoke;
+      border-radius: 2px;
+  }
+  
